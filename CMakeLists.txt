@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(ComputerRoomBookSystem)
+include_directories(${CMAKE_SOURCE_DIR}/include/)
+set(CMAKE_BUILD_TYPE debug)
+add_executable(ComputerRoomBookSystem src/computerroombooksystem.cpp src/student.cpp src/teacher.cpp src/manager.cpp src/orderfile.cpp)

@@ -1,0 +1,3 @@
+/Users/hailin/projects/ComputerRoomBookSystem/build/CMakeFiles/ComputerRoomBookSystem.dir
+/Users/hailin/projects/ComputerRoomBookSystem/build/CMakeFiles/edit_cache.dir
+/Users/hailin/projects/ComputerRoomBookSystem/build/CMakeFiles/rebuild_cache.dir
